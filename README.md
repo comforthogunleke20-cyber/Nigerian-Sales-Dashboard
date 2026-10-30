@@ -22,4 +22,3 @@ Analyzing Nigerian sales performance across revenue, customers, products, and pa
 - Google Sheets
 - BigQuery (SQL)
 - Excel
-- Excel
